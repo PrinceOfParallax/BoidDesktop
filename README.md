@@ -1,11 +1,13 @@
 # BoidDesktop
-Desktop application for the Boid.com platform.
+
+Desktop application for the Linux platform.
+
 ```shell
 boidcmd setup
 For Linux Installs:
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
 ```
-#Kill shell
+--#Kill shell
 
 ```shell
 command -v nvm
